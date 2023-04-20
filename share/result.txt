@@ -1,0 +1,32 @@
+========================================
+New Test
+
+Replicated Results:
+Time Cost: 4.647749334999389, Dataset: retail.dat, Min_Support: 0.3, Replicate_id: 0 Method: fp-growth
+Time Cost: 3.9734031269981642, Dataset: retail.dat, Min_Support: 0.3, Replicate_id: 1 Method: fp-growth
+Time Cost: 3.983189210001001, Dataset: retail.dat, Min_Support: 0.3, Replicate_id: 2 Method: fp-growth
+Time Cost: 3.958572417999676, Dataset: retail.dat, Min_Support: 0.3, Replicate_id: 3 Method: fp-growth
+Time Cost: 3.910545501003071, Dataset: retail.dat, Min_Support: 0.3, Replicate_id: 4 Method: fp-growth
+Time Cost: 3.8857896689987683, Dataset: retail.dat, Min_Support: 0.1, Replicate_id: 0 Method: fp-growth
+Time Cost: 3.8782640009994793, Dataset: retail.dat, Min_Support: 0.1, Replicate_id: 1 Method: fp-growth
+Time Cost: 3.8864762100020016, Dataset: retail.dat, Min_Support: 0.1, Replicate_id: 2 Method: fp-growth
+Time Cost: 3.8104170430015074, Dataset: retail.dat, Min_Support: 0.1, Replicate_id: 3 Method: fp-growth
+Time Cost: 3.936887044001196, Dataset: retail.dat, Min_Support: 0.1, Replicate_id: 4 Method: fp-growth
+Time Cost: 3.855380917997536, Dataset: retail.dat, Min_Support: 0.03, Replicate_id: 0 Method: fp-growth
+Time Cost: 3.8946720020030625, Dataset: retail.dat, Min_Support: 0.03, Replicate_id: 1 Method: fp-growth
+Time Cost: 3.8965454179997323, Dataset: retail.dat, Min_Support: 0.03, Replicate_id: 2 Method: fp-growth
+Time Cost: 3.7997907509998186, Dataset: retail.dat, Min_Support: 0.03, Replicate_id: 3 Method: fp-growth
+Time Cost: 3.919520794002892, Dataset: retail.dat, Min_Support: 0.03, Replicate_id: 4 Method: fp-growth
+Time Cost: 11.860722214001726, Dataset: retail.dat, Min_Support: 0.01, Replicate_id: 0 Method: fp-growth
+Time Cost: 12.167959505000908, Dataset: retail.dat, Min_Support: 0.01, Replicate_id: 1 Method: fp-growth
+Time Cost: 12.462451839001005, Dataset: retail.dat, Min_Support: 0.01, Replicate_id: 2 Method: fp-growth
+Time Cost: 12.418527089001145, Dataset: retail.dat, Min_Support: 0.01, Replicate_id: 3 Method: fp-growth
+Time Cost: 11.983184131000598, Dataset: retail.dat, Min_Support: 0.01, Replicate_id: 4 Method: fp-growth
+
+----------------------------------------
+Average Results:
+Average Time Cost: 4.09469191820026, Dataset: retail.dat, Min_Support: 0.3, Method: fp-growth
+Average Time Cost: 3.87956679340059, Dataset: retail.dat, Min_Support: 0.1, Method: fp-growth
+Average Time Cost: 3.873181976600608, Dataset: retail.dat, Min_Support: 0.03, Method: fp-growth
+Average Time Cost: 12.178568955601076, Dataset: retail.dat, Min_Support: 0.01, Method: fp-growth
+
