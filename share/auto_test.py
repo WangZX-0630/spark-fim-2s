@@ -5,11 +5,19 @@ import os
 command = "spark-submit"
 master_option = "--master"
 master_url = "spark://master:7077"
-python_files = ["share/fp-growth.py"]
+python_files = [
+    # "share/fp-growth.py",
+    # "share/apriori_2.py",
+    "share/apriori.py",
+    # "share/fp-growth-lib.py",
+    # "share/eclat.py"
+]
 dataset_files = [
-    "retail.dat", 
-    # "mushroom.dat",
-    # "kosarak.dat"
+    # "chess.dat",
+    # "retail.dat",
+    "mushroom.dat",
+    # "kosarak.dat",
+    # "movieItem.dat"
 ]
 min_supports = [0.3, 0.1, 0.03, 0.01]
 replicate_times = 5
